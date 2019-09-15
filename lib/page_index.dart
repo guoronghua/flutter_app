@@ -63,6 +63,8 @@ export 'page/logon/index.dart';
 export 'page/login/login_page.dart';
 export 'page/login_video_page.dart';
 export 'page/second_floor.dart';
+export 'page/parallax_image.dart';
+export 'page/shimmer.dart';
 
 export 'animation/curves_demo.dart';
 export 'animation/animated_opacity.dart';
@@ -127,6 +129,7 @@ export 'ui/web_view.dart';
 export 'ui/input_text_view.dart';
 export 'ui/icon_text.dart';
 export 'ui/light_theme.dart';
+export 'ui/tagview.dart';
 
 export 'qdaily/splash.dart';
 
